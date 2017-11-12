@@ -1,0 +1,14 @@
+body { 
+	font: normal 16px Arial;
+ 	margin: 16px 10%;
+	background-color: #4A2C2C;
+}
+
+h1 { 
+	font-style: italic;
+	color: #D3504A;	
+}
+
+#film {
+	background-color: rgb(92, 174, 255);
+}

@@ -1,0 +1,19 @@
+table{
+	background-color: #BBBBBB;
+	width: 90%;
+}
+
+table, th, td{
+	border-collapse: collapse;
+	border: 2px solid white;
+	text-align: left;
+}
+
+th{
+	background-color: #000000;
+	color: #FFDC76;
+}
+
+td{
+	color: #D3504A;
+}
